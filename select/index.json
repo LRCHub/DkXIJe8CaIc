@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Sleigh Ride",
+  "base_artist": "The Ronettes",
+  "createdAt": "2025-12-25T10:46:58.718519Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sleigh Ride",
+      "artist": "KT Tunstall",
+      "has_synced": false,
+      "path": "select/01_Sleigh_Ride_KT_Tunstall.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sleigh Ride",
+      "artist": "She & Him",
+      "has_synced": true,
+      "path": "select/02_Sleigh_Ride_She_&_Him.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sleigh Ride",
+      "artist": "Hilary Duff",
+      "has_synced": true,
+      "path": "select/03_Sleigh_Ride_Hilary_Duff.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sleigh Ride",
+      "artist": "TLC",
+      "has_synced": true,
+      "path": "select/04_Sleigh_Ride_TLC.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sleigh Ride (Colin's Master Mix)",
+      "artist": "TLC",
+      "has_synced": true,
+      "path": "select/05_Sleigh_Ride_(Colin's_Master_Mix)_TLC.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sleigh Ride (Colin's Radio Edit)",
+      "artist": "TLC",
+      "has_synced": false,
+      "path": "select/06_Sleigh_Ride_(Colin's_Radio_Edit)_TLC.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sleigh Ride (Colin's Radio Edit)",
+      "artist": "TLC",
+      "has_synced": true,
+      "path": "select/07_Sleigh_Ride_(Colin's_Radio_Edit)_TLC.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jingle Bells / Sleigh Ride",
+      "artist": "Henry Mancini",
+      "has_synced": false,
+      "path": "select/08_Jingle_Bells___Sleigh_Ride_Henry_Mancini.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sleigh Ride",
+      "artist": "Ella Fitzgerald",
+      "has_synced": true,
+      "path": "select/09_Sleigh_Ride_Ella_Fitzgerald.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sleigh Ride",
+      "artist": "The Ronettes",
+      "has_synced": true,
+      "path": "select/10_Sleigh_Ride_The_Ronettes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sleigh Ride",
+      "artist": "Wilson Phillips",
+      "has_synced": true,
+      "path": "select/11_Sleigh_Ride_Wilson_Phillips.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sleigh Ride",
+      "artist": "Wynton Marsalis",
+      "has_synced": false,
+      "path": "select/12_Sleigh_Ride_Wynton_Marsalis.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sleigh Ride",
+      "artist": "The Ronettes",
+      "has_synced": false,
+      "path": "select/pl_01_Sleigh_Ride_The_Ronettes.txt"
+    }
+  ]
+}
